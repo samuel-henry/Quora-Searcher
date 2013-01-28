@@ -1,0 +1,15 @@
+{
+  "name": "Quora Searcher",
+  "description": "Searches Quora for selected text",
+  "version": "1.11",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["quora_searcher.js"]
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon-small.png",
+    "128": "icon-large.png"
+  },
+  "manifest_version": 2
+}
